@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Blowfish! :tada: on ChemMCP</title><link>https://osu-nlp-group.github.io/ChemMCP/</link><description>Recent content in Welcome to Blowfish! :tada: on ChemMCP</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nuno@n9o.xyz (The OSU NLP Group)</managingEditor><webMaster>nuno@n9o.xyz (The OSU NLP Group)</webMaster><copyright>© 2025 The OSU NLP Group</copyright><atom:link href="https://osu-nlp-group.github.io/ChemMCP/index.xml" rel="self" type="application/rss+xml"/><item><title>Get Started</title><link>https://osu-nlp-group.github.io/ChemMCP/get-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/get-started/</guid><description>&lt;p>ChemMCP is a chemistry toolkit that empowers AI assistants with advanced chemistry capabilities.&lt;/p>
+&lt;p>This guide will help you quickly set up and start using ChemMCP.&lt;/p>
+&lt;h2 class="relative group">Quick Setup
+&lt;div id="quick-setup" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quick-setup" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Install uv&lt;/strong>&lt;/p></description></item><item><title>BbbpPredictor (predict_bbbp)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/bbbp_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/bbbp_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Predict the blood-brain barrier penetration of a molecule given its SMILES representation.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>ForwardSynthesis (do_forward_synthesis)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/forward_synthesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/forward_synthesis/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Given reactants and reagents, predict the product(s) of a chemical reaction.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>FunctionalGroups (get_functional_groups)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Get the functional groups in a molecule.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>HivInhibitorPredictor (predict_hiv_inhibitor)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/hiv_inhibitor_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/hiv_inhibitor_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Predict the HIV inhibition of a molecule given its SMILES representation.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Iupac2Smiles (convert_iupac_to_smiles)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/iupac2smiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/iupac2smiles/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert IUPAC name to SMILES string.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>LogDPredictor (predict_logd)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/logd_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/logd_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Predict the logD of a molecule given its SMILES representation.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeAtomCount (count_molecule_atoms)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_atom_count/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_atom_count/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Count the number of atoms of each type in a molecule.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeCaptioner (generate_molecule_caption)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_captioner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_captioner/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Generate a textual description of the molecule from its SMILES representation with MolT5. This tool uses neural networks to generate descriptions, which may not be accurate or correct. Please first try other tools that provide accurate and authoritative information, and only use this one as the last resort.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeGenerator (generate_molecule_from_description)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_generator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_generator/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Generate a molecule represented in SMILES with MolT5 that matches the given textual description.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculePrice (get_molecule_price)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_price/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_price/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Get the cheapest available price of a molecule.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeSimilarity (cal_molecule_similarity)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_similarity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_similarity/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Get the Tanimoto similarity of two molecules. It Can also be used to check if two molecules are identical.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example 2&lt;/strong>&lt;/p></description></item><item><title>MoleculeWeight (cal_molecular_weight)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_weight/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_weight/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Calculate molecular weight.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Name2Smiles (convert_chemical_name_to_smiles)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/name2smiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/name2smiles/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert chemical name to SMILES string.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>PatentCheck (check_molecule_if_patented)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/patent_check/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/patent_check/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Get whether a molecule is patented or not.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>PubchemSearch (search_pubchem)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+No MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Search for molecule/compound information on PubChem, one of the most comprehensive database of chemical molecules and their activities.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example 3&lt;/strong>&lt;/p></description></item><item><title>PubchemSearchQA (search_pubchem_qa)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search_qa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search_qa/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Answer questions about molecules/compounds based on the information from PubChem, one of the most comprehensive database of chemical molecules and their activities.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example 3&lt;/strong>&lt;/p></description></item><item><title>Retrosynthesis (do_retrosynthesis)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/retrosynthesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/retrosynthesis/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Conduct single-step retrosynthesis. Given the product(s), predict multiple sets of potential reactants, along with their confidence.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Selfies2Smiles (convert_selfies_to_smiles)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/selfies2smiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/selfies2smiles/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert SELFIES to SMILES string.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SideEffectPredictor (predict_side_effect)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/side_effect_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/side_effect_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Predict whether a molecule can cause 20 different side effects, along with the probabilities of each side effect. The side effects are: (1) Blood and lymphatic system disorders; (2) Cardiac disorders; (3) Congenital, familial and genetic disorders; (4) Ear and labyrinth disorders; (5) Endocrine disorders; (6) Eye disorders; (7) Gastrointestinal disorders; (8) Hepatobiliary disorders; (9) Immune system disorders; (10) Metabolism and nutrition disorders; (11) Musculoskeletal and connective tissue disorders; (12) Neoplasms benign, malignant and unspecified (incl cysts and polyps); (13) Nervous system disorders; (14) Pregnancy, puerperium and perinatal conditions; (15) Psychiatric disorders; (16) Renal and urinary disorders; (17) Reproductive system and breast disorders; (18) Respiratory, thoracic and mediastinal disorders; (19) Skin and subcutaneous tissue disorders; (20) Vascular disorders.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Smiles2Formula (convert_smiles_to_formula)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2formula/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2formula/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert SMILES to molecular formula.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Smiles2Iupac (convert_smiles_to_iupac)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2iupac/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2iupac/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert SMILES to IUPAC name.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Smiles2Selfies (convert_smiles_to_selfies)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2selfies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2selfies/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert SMILES to SELFIES string.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SmilesCanonicalization (canonicalize_smiles)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles_canonicalization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles_canonicalization/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Canonicalize a molecular SMILES string.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SolubilityPredictor (predict_solubility)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/solubility_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/solubility_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Predict the solubility of a molecule given its SMILES representation.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>ToxicityPredictor (predict_toxicity)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/toxicity_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/toxicity_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/15
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Predict the toxicity of a molecule given its SMILES representation.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>WebSearch (search_web)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/web_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/web_search/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/17
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Search the web for any questions and knowledge and obtain a concise answer based on thesearch results.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Development Guide</title><link>https://osu-nlp-group.github.io/ChemMCP/dev-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/dev-guide/</guid><description>&lt;p>We sincerely welcome your contribution of new tools. This guide walks you through the steps to create, test, and submit a new MCP-compatible tool in the ChemMCP package.&lt;/p>
+&lt;h2 class="relative group">Step 0: Setup
+&lt;div id="step-0-setup" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#step-0-setup" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>To begin with, fork our &lt;a href="https://github.com/OSU-NLP-Group/ChemMCP" target="_blank">Github repo&lt;/a> into your own account and clone to your local machine. You could install uv and do &lt;code>uv sync&lt;/code> as introduced &lt;a href="https://osu-nlp-group.github.io/ChemMCP/get-started/#quick-setup">here&lt;/a>, which creates a Python environment for you and smooths your development.&lt;/p></description></item><item><title>QuickConfig</title><link>https://osu-nlp-group.github.io/ChemMCP/quick-config/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/quick-config/</guid><description/></item></channel></rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://osu-nlp-group.github.io/ChemMCP/sitemap.xml

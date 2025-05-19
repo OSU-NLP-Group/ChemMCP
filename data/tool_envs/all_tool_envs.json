@@ -1,0 +1,37 @@
+{
+    "WebSearch": {
+        "TAVILY_API_KEY": "The API key for [Tavily](https://tavily.com/)."
+    },
+    "MoleculeCaptioner": {},
+    "MoleculeGenerator": {},
+    "PubchemSearchQA": {
+        "__llms__": "LiteLLM Envs."
+    },
+    "ForwardSynthesis": {
+        "RXN4CHEM_API_KEY": "The API key for IBM RXN4Chem."
+    },
+    "Retrosynthesis": {
+        "RXN4CHEM_API_KEY": "The API key for IBM RXN4Chem."
+    },
+    "MoleculeSimilarity": {},
+    "MoleculeWeight": {},
+    "FunctionalGroups": {},
+    "SmilesCanonicalization": {},
+    "MoleculeAtomCount": {},
+    "MoleculePrice": {
+        "CHEMSPACE_API_KEY": "The API key for ChemSpace."
+    },
+    "PatentCheck": {},
+    "SolubilityPredictor": {},
+    "LogDPredictor": {},
+    "BbbpPredictor": {},
+    "ToxicityPredictor": {},
+    "HivInhibitorPredictor": {},
+    "SideEffectPredictor": {},
+    "Iupac2Smiles": {},
+    "Smiles2Iupac": {},
+    "Smiles2Formula": {},
+    "Name2Smiles": {},
+    "Selfies2Smiles": {},
+    "Smiles2Selfies": {}
+}
