@@ -6,7 +6,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/17
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -23,7 +23,7 @@ Python Calling Support
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Convert IUPAC name to SMILES string.&lt;/strong>
 &lt;/div>
-&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Smiles2Iupac (convert_smiles_to_iupac)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2iupac/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2iupac/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>PubchemSearch (search_pubchem)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
 Version: 0.1.0
@@ -31,7 +31,57 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/17
+Last Update: 2025/05/20
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+No MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Search for molecule/compound information on PubChem, one of the most comprehensive database of chemical molecules and their activities.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example 3&lt;/strong>&lt;/p></description></item><item><title>PubchemSearchQA (search_pubchem_qa)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search_qa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search_qa/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/20
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Answer questions about molecules/compounds based on the information from PubChem, one of the most comprehensive database of chemical molecules and their activities.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example 3&lt;/strong>&lt;/p></description></item><item><title>Smiles2Iupac (convert_smiles_to_iupac)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2iupac/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2iupac/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">

@@ -6,7 +6,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -23,6 +23,31 @@ Python Calling Support
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Predict the blood-brain barrier penetration of a molecule given its SMILES representation.&lt;/strong>
 &lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>ForwardSynthesis (do_forward_synthesis)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/forward_synthesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/forward_synthesis/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/20
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Given reactants and reagents, predict the product(s) of a chemical reaction.&lt;/strong>
+&lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>HivInhibitorPredictor (predict_hiv_inhibitor)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/hiv_inhibitor_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/hiv_inhibitor_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -31,7 +56,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -56,7 +81,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -81,7 +106,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/17
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -106,7 +131,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -123,6 +148,31 @@ Python Calling Support
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Generate a molecule represented in SMILES with MolT5 that matches the given textual description.&lt;/strong>
 &lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Retrosynthesis (do_retrosynthesis)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/retrosynthesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/retrosynthesis/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/20
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Conduct single-step retrosynthesis. Given the product(s), predict multiple sets of potential reactants, along with their confidence.&lt;/strong>
+&lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SideEffectPredictor (predict_side_effect)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/side_effect_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/side_effect_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -131,7 +181,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -156,7 +206,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -181,7 +231,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/15
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -206,7 +256,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/17
+Last Update: 2025/05/20
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
