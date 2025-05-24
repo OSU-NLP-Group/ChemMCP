@@ -238,12 +238,12 @@ Python Calling Support
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculePrice (get_molecule_price)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_price/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_price/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Version: 0.1.0
+Version: 0.1.1
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/05/24
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -258,7 +258,7 @@ Python Calling Support
 &lt;/span>
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-&lt;strong>Get the cheapest available price of a molecule.&lt;/strong>
+&lt;strong>Check the purchasability and get the cheapest available price of a molecule.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeSimilarity (cal_molecule_similarity)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_similarity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_similarity/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
@@ -363,12 +363,12 @@ Python Calling Support
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>PubchemSearch (search_pubchem)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Version: 0.1.0
+Version: 0.1.1
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/05/24
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -383,17 +383,17 @@ Python Calling Support
 &lt;/span>
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-&lt;strong>Search for molecule/compound information on PubChem, one of the most comprehensive database of chemical molecules and their activities.&lt;/strong>
+&lt;strong>Search for molecule/compound information on PubChem, one of the most comprehensive database of chemical molecules and their activities. You can get authoritative information about molecular names, properties, activities, and more.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example 3&lt;/strong>&lt;/p></description></item><item><title>PubchemSearchQA (search_pubchem_qa)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search_qa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/pubchem_search_qa/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Version: 0.1.0
+Version: 0.1.1
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/05/24
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -408,7 +408,7 @@ Python Calling Support
 &lt;/span>
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-&lt;strong>Answer questions about molecules/compounds based on the information from PubChem, one of the most comprehensive database of chemical molecules and their activities.&lt;/strong>
+&lt;strong>Answer questions about molecules/compounds based on the information from PubChem, one of the most comprehensive database of chemical molecules and their activities. You can get authoritative answers about molecular names, properties, activities, and more.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example 3&lt;/strong>&lt;/p></description></item><item><title>Retrosynthesis (do_retrosynthesis)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/retrosynthesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/retrosynthesis/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
@@ -484,6 +484,56 @@ Python Calling Support
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Predict whether a molecule can cause 20 different side effects, along with the probabilities of each side effect. The side effects are: (1) Blood and lymphatic system disorders; (2) Cardiac disorders; (3) Congenital, familial and genetic disorders; (4) Ear and labyrinth disorders; (5) Endocrine disorders; (6) Eye disorders; (7) Gastrointestinal disorders; (8) Hepatobiliary disorders; (9) Immune system disorders; (10) Metabolism and nutrition disorders; (11) Musculoskeletal and connective tissue disorders; (12) Neoplasms benign, malignant and unspecified (incl cysts and polyps); (13) Nervous system disorders; (14) Pregnancy, puerperium and perinatal conditions; (15) Psychiatric disorders; (16) Renal and urinary disorders; (17) Reproductive system and breast disorders; (18) Respiratory, thoracic and mediastinal disorders; (19) Skin and subcutaneous tissue disorders; (20) Vascular disorders.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SmartsCheck (check_smarts)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smarts_check/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smarts_check/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/24
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Check the syntactical validity of a reaction SMART string ([reactant SMILES]&amp;gt;[reagent SMILES]&amp;gt;[product SMILES]).&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Smiles2Cas (convert_smiles_to_cas)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2cas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2cas/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/24
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Convert SMILES to CAS number based on PubChem.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Smiles2Formula (convert_smiles_to_formula)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2formula/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles2formula/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
@@ -584,6 +634,31 @@ Python Calling Support
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Canonicalize a molecular SMILES string.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SmilesCheck (check_smiles)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/smiles_check/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/smiles_check/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/24
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Check the syntactical validity of a molecular SMILES string.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>SolubilityPredictor (predict_solubility)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/solubility_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/solubility_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
