@@ -2,11 +2,6 @@
 &lt;p>This guide will help you quickly set up and start using ChemMCP.&lt;/p>
 &lt;h2 class="relative group">Quick Setup
 &lt;div id="quick-setup" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#quick-setup" aria-label="Anchor">#&lt;/a>
-&lt;/span>
 &lt;/h2>
 &lt;ol>
 &lt;li>
@@ -738,10 +733,5 @@ Python Calling Support
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>Development Guide</title><link>https://osu-nlp-group.github.io/ChemMCP/dev-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/dev-guide/</guid><description>&lt;p>We sincerely welcome your contribution of new tools. This guide walks you through the steps to create, test, and submit a new MCP-compatible tool in the ChemMCP package.&lt;/p>
 &lt;h2 class="relative group">Step 0: Setup
 &lt;div id="step-0-setup" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#step-0-setup" aria-label="Anchor">#&lt;/a>
-&lt;/span>
 &lt;/h2>
 &lt;p>To begin with, fork our &lt;a href="https://github.com/OSU-NLP-Group/ChemMCP" target="_blank">Github repo&lt;/a> into your own account and clone to your local machine. You could install uv and do &lt;code>uv sync&lt;/code> as introduced &lt;a href="https://osu-nlp-group.github.io/ChemMCP/get-started/#quick-setup">here&lt;/a>, which creates a Python environment for you and smooths your development.&lt;/p></description></item><item><title>QuickConfig</title><link>https://osu-nlp-group.github.io/ChemMCP/quick-config/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/quick-config/</guid><description/></item></channel></rss>
