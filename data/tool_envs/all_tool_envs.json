@@ -36,5 +36,8 @@
     "Smiles2Selfies": {},
     "SmilesCheck": {},
     "SmartsCheck": {},
-    "Smiles2Cas": {}
+    "Smiles2Cas": {},
+    "SafetyCheck": {
+        "__llms__": "LiteLLM Envs."
+    }
 }
