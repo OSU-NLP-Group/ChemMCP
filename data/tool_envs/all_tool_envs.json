@@ -39,5 +39,7 @@
     "Smiles2Cas": {},
     "SafetyCheck": {
         "__llms__": "LiteLLM Envs."
-    }
+    },
+    "MoleculeModifier": {},
+    "PythonExecutor": {}
 }
