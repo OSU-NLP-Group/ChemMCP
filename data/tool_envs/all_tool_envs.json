@@ -41,5 +41,6 @@
         "__llms__": "LiteLLM Envs."
     },
     "MoleculeModifier": {},
-    "PythonExecutor": {}
+    "PythonExecutor": {},
+    "MoleculeVisualizer": {}
 }

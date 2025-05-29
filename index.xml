@@ -305,7 +305,32 @@ Python Calling Support
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Get the Tanimoto similarity of two molecules. It Can also be used to check if two molecules are identical.&lt;/strong>
 &lt;/div>
-&lt;p>&lt;strong>Example 2&lt;/strong>&lt;/p></description></item><item><title>MoleculeWeight (cal_molecular_weight)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_weight/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_weight/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;p>&lt;strong>Example 2&lt;/strong>&lt;/p></description></item><item><title>MoleculeVisualizer (visualize_molecule)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_visualizer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_visualizer/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Version: 0.1.0
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Last Update: 2025/05/28
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+MCP Support
+&lt;/span>
+&lt;/span>
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+Python Calling Support
+&lt;/span>
+&lt;/span>
+&lt;/div>
+&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;strong>Visualize a molecule with RDKit.&lt;/strong>
+&lt;/div>
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeWeight (cal_molecular_weight)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_weight/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_weight/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
 Version: 0.1.0
@@ -438,7 +463,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/27
+Last Update: 2025/05/28
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
