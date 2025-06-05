@@ -6,7 +6,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -23,7 +23,7 @@ Python Calling Support
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Predict the blood-brain barrier penetration of a molecule given its SMILES representation.&lt;/strong>
 &lt;/div>
-&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>FunctionalGroups (get_functional_groups)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+&lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>FunctionalGroups (identify_functional_groups)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
 Version: 0.1.0
@@ -31,7 +31,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -46,7 +46,7 @@ Python Calling Support
 &lt;/span>
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-&lt;strong>Get the functional groups in a molecule.&lt;/strong>
+&lt;strong>Identify functional groups in a molecule.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>HivInhibitorPredictor (predict_hiv_inhibitor)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/hiv_inhibitor_predictor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/hiv_inhibitor_predictor/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
@@ -56,7 +56,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -81,7 +81,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -96,7 +96,7 @@ Python Calling Support
 &lt;/span>
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-&lt;strong>Predict the logD of a molecule given its SMILES representation.&lt;/strong>
+&lt;strong>Predict the logD under pH 7.4 of a molecule given its SMILES representation.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeAtomCount (count_molecule_atoms)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_atom_count/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_atom_count/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
@@ -106,7 +106,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -131,7 +131,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -156,7 +156,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -181,7 +181,7 @@ Version: 0.1.1
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/24
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -206,7 +206,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -231,7 +231,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/29
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -256,7 +256,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/06/01
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -281,7 +281,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -331,7 +331,7 @@ Version: 0.1.1
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/26
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -356,7 +356,7 @@ Version: 0.1.1
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/24
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -381,7 +381,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/29
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -406,7 +406,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -431,7 +431,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -456,7 +456,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">

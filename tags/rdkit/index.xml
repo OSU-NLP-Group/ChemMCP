@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RDKit on ChemMCP</title><link>https://osu-nlp-group.github.io/ChemMCP/tags/rdkit/</link><description>Recent content in RDKit on ChemMCP</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nuno@n9o.xyz (The OSU NLP Group)</managingEditor><webMaster>nuno@n9o.xyz (The OSU NLP Group)</webMaster><copyright>© 2025 The OSU NLP Group</copyright><atom:link href="https://osu-nlp-group.github.io/ChemMCP/tags/rdkit/index.xml" rel="self" type="application/rss+xml"/><item><title>FunctionalGroups (get_functional_groups)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RDKit on ChemMCP</title><link>https://osu-nlp-group.github.io/ChemMCP/tags/rdkit/</link><description>Recent content in RDKit on ChemMCP</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nuno@n9o.xyz (The OSU NLP Group)</managingEditor><webMaster>nuno@n9o.xyz (The OSU NLP Group)</webMaster><copyright>© 2025 The OSU NLP Group</copyright><atom:link href="https://osu-nlp-group.github.io/ChemMCP/tags/rdkit/index.xml" rel="self" type="application/rss+xml"/><item><title>FunctionalGroups (identify_functional_groups)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/functional_groups/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
 Version: 0.1.0
@@ -6,7 +6,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -21,7 +21,7 @@ Python Calling Support
 &lt;/span>
 &lt;/div>
 &lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-&lt;strong>Get the functional groups in a molecule.&lt;/strong>
+&lt;strong>Identify functional groups in a molecule.&lt;/strong>
 &lt;/div>
 &lt;p>&lt;strong>Example&lt;/strong>&lt;/p></description></item><item><title>MoleculeAtomCount (count_molecule_atoms)</title><link>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_atom_count/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (The OSU NLP Group)</author><guid>https://osu-nlp-group.github.io/ChemMCP/tools/molecule_atom_count/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
 &lt;span class="flex" style="cursor: pointer;">
@@ -31,7 +31,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -56,7 +56,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -81,7 +81,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/29
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -106,7 +106,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/06/01
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -131,7 +131,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -156,7 +156,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/29
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -181,7 +181,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
@@ -206,7 +206,7 @@ Version: 0.1.0
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
 &lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-Last Update: 2025/05/20
+Last Update: 2025/06/05
 &lt;/span>
 &lt;/span>
 &lt;span class="flex" style="cursor: pointer;">
